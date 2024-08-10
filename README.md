@@ -2,7 +2,7 @@
 
 Este é um projeto incrível!
 
-![Demonstração da funcionalidade principal](images/clima.jpg)
+![Demonstração da funcionalidade principal](imagens/clima.jpg)
 
 **Descrição:**
 * ...
